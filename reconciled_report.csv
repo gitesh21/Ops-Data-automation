@@ -1,0 +1,5 @@
+date,store_id,transaction_count,total_pos,total_cash,difference,flag
+2025-01-01,LDN01,182,1240.5,1235.5,5.0,False
+2025-01-01,LDN02,141,980.0,980.0,0.0,False
+2025-01-02,LDN01,195,1325.75,1318.75,7.0,True
+2025-01-02,LDN02,158,1042.2,1030.2,12.0,True
